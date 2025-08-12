@@ -3851,9 +3851,15 @@
     "@types/node" "*"
 
 "@types/node@*":
+<<<<<<< Updated upstream
   version "24.1.0"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-24.1.0.tgz#0993f7dc31ab5cc402d112315b463e383d68a49c"
   integrity sha512-ut5FthK5moxFKH2T1CUOC6ctR67rQRvvHdFLCD2Ql6KXmMuCrjsSsRI9UsLCm9M18BMwClv4pn327UvB7eeO1w==
+=======
+  version "24.0.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-24.0.14.tgz#6e3d4fb6d858c48c69707394e1a0e08ce1ecc1bc"
+  integrity sha512-4zXMWD91vBLGRtHK3YbIoFMia+1nqEz72coM42C5ETjnNCa/heoj7NT1G67iAfOqMmcfhuCZ4uNpyz8EjlAejw==
+>>>>>>> Stashed changes
   dependencies:
     undici-types "~7.8.0"
 
@@ -4359,9 +4365,15 @@ ansi-styles@^6.1.0:
   integrity sha512-bN798gFfQX+viw3R7yrGWRqnrN2oRkEkUjjl4JNn4E8GxxbjtG3FbrEIIY3l8/hrwUwIeCZvi4QuOTP4MErVug==
 
 antd@^5.19.3:
+<<<<<<< Updated upstream
   version "5.26.7"
   resolved "https://registry.yarnpkg.com/antd/-/antd-5.26.7.tgz#e2f7e37330b27eec0de7a7789767975373f61602"
   integrity sha512-iCyXN6+i2CUVEOSzzJKfbKeg115qoJhGvSkCh5uzAf9hANwHUOJQhsMn+KtN+Lx/2NQ6wfM7nGZ+7NPNO5Pn1w==
+=======
+  version "5.26.5"
+  resolved "https://registry.yarnpkg.com/antd/-/antd-5.26.5.tgz#e324b028753df763b494034634a6dc991a959e95"
+  integrity sha512-HB7Cr0tPZMMeAyDDH8KZU0aP8/uO51oasmflJhDBzaRRZmLT8Pyjtt8qS22Sc839glm8gpKQcaG0mln66Gt9Fg==
+>>>>>>> Stashed changes
   dependencies:
     "@ant-design/colors" "^7.2.1"
     "@ant-design/cssinjs" "^1.23.0"
